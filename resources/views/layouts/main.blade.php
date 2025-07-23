@@ -15,19 +15,19 @@
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script> --}}
       <link rel="stylesheet" href="{{ asset('css/style.css') }}">
       <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-      {{-- <title>sosialmedia.digimar.id - Satu Tempat untuk Semua Sosial Media Anda</title>
-      <meta name="title" content="sosialmedia.digimar.id - Satu Tempat untuk Semua Sosial Media Anda">
-      <meta name="description" content="Kelola, jadwalkan, dan analisa performa semua akun sosial media Anda dari satu dashboard terintegrasi bersama Digimar.">
-      <meta name="keywords" content="manajemen sosial media, jadwal posting, analisa media sosial, strategi konten, branding digital, dashboard sosial media, digimar sosial media"> --}}
-      <meta name="author" content="sosialmedia.digimar.id">
-      <meta property="og:title" content="sosialmedia.digimar.id - Maksimalkan Bisnismu Lewat TikTok Marketing">
-      <meta property="og:description" content="Kelola, jadwalkan, dan analisa performa semua akun sosial media Anda dari satu dashboard terintegrasi bersama Digimar.">
+      {{-- <title>affiliate.digimar.id – Dapatkan Penghasilan dari Program Afiliasi Digimar</title>
+      <meta name="title" content="affiliate.digimar.id – Dapatkan Penghasilan dari Program Afiliasi Digimar">
+      <meta name="description" content="Gabung program afiliasi kami, bagikan tautan, dan hasilkan komisi dari setiap transaksi yang berasal dari referensi Anda.">
+      <meta name="keywords" content="program afiliasi, pemasaran afiliasi, penghasilan online, komisi penjualan, tautan afiliasi, digimar afiliasi"> --}}
+      <meta name="author" content="affiliate.digimar.id">
+      <meta property="og:title" content="affiliate.digimar.id - Dapatkan Penghasilan dari Program Afiliasi Digimar">
+      <meta property="og:description" content="Gabung program afiliasi kami, bagikan tautan, dan hasilkan komisi dari setiap transaksi yang berasal dari referensi Anda.">
       <meta property="og:type" content="website">
-      <meta property="og:url" content="https://sosialmedia.digimar.id">
+      <meta property="og:url" content="https://affiliate.digimar.id">
       <meta property="og:image" content="{{ asset('logodark.svg') }}">
       <meta name="twitter:card" content="summary_large_image">
-      <meta name="twitter:title" content="sosialmedia.digimar.id - Maksimalkan Bisnismu Lewat TikTok Marketing">
-      <meta name="twitter:description" content="Kelola, jadwalkan, dan analisa performa semua akun sosial media Anda dari satu dashboard terintegrasi bersama Digimar.">
+      <meta name="twitter:title" content="affiliate.digimar.id - Dapatkan Penghasilan dari Program Afiliasi Digimar">
+      <meta name="twitter:description" content="Gabung program afiliasi kami, bagikan tautan, dan hasilkan komisi dari setiap transaksi yang berasal dari referensi Anda.">
       <meta name="twitter:image" content="{{ asset('logodark.svg') }}">
 
       <style>
